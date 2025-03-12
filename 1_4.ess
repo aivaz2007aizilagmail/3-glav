@@ -1,4 +1,5 @@
 start
+
 new a number
 new b number
 new c number
@@ -14,16 +15,27 @@ set x 7
 if (x > a)
     log string "x > a"
 close
-if (x > b)
-    log string "a > x > b"
-close
-if (x > c)
-    log string "b > x > c"
-close
-if (x > d)
-    log string "c > x > d"
 
-else
+if (a > x)
+    if (x > b)
+        log string "a > x > b"
+    close
+close
+
+if (b > x)
+    if (x > c)
+        log string "b > x > c"
+    close
+close
+
+if (c > x)
+    if (x > d)
+        log string "c > x > d"
+    close
+close
+
+if (d > x)
     log string "x < d"
 close
+
 finish

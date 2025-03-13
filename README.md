@@ -1,5 +1,5 @@
 # 3-glav
-# 🚀 Добро пожаловать в 1 главу!
+# 🚀 Добро пожаловать в 3 главу!
 
 [![GitHub Stars](https://img.shields.io/github/stars/aivaz2007aizilagmail/3-glav?style=for-the-badge&logo=github&color=yellow)](https://github.com/aivaz2007aizilagmail/3-glav/stargazers)
 [![GitHub Watchers](https://img.shields.io/github/watchers/aivaz2007aizilagmail/3-glav?style=for-the-badge&logo=github&color=blue)](https://github.com/aivaz2007aizilagmail/3-glav/subscriptions)
